@@ -62,6 +62,17 @@ const Header = () => {
                     className="nav-link active"
                     aria-current="page"
                     style={{ color: "lightseagreen" }}
+                    to="/idea"
+                  >
+                    Idea
+                  </NavLink>
+                </li>
+                <li className="nav-item mr-2">
+                  <NavLink
+                    activeClassName="text-white bg-gray-900"
+                    className="nav-link active"
+                    aria-current="page"
+                    style={{ color: "lightseagreen" }}
                     to="/teamDetails"
                   >
                     Team Details
@@ -78,6 +89,7 @@ const Header = () => {
                     Journey
                   </NavLink>
                 </li>
+               
               </ul>
             </div>
           </div>

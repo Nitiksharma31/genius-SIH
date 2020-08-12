@@ -11,17 +11,7 @@ const Footer = () => {
             <p className="text-sm text-gray-600 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0 mt-4">
               © 2020 Team Genius
             </p>
-            <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-              Developed By &nbsp;{" "}
-              <span style={{ color: "white" }}> CSS | &nbsp;</span>
-              <a
-                href="https://sahiljasuja.ml/"
-                target="_blank"
-                className="text-white"
-              >
-                contact
-              </a>
-            </span>
+            
           </div>
         </footer>
       </>

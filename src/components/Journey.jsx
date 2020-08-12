@@ -119,8 +119,9 @@ const Journey = () => {
                     teachers for providing us such an opportunity. <br /> At the
                     end of this we decided to open a company in collaborationand
                     then we decide to make a potential business product by
-                    collaboration.
+                    collaboration. <br />
                   </p>
+                      <p className='text-white'>Check Results At No 203 :</p> <a className="text-green-400" target='_blank' href="https://www.sih.gov.in/SoftwarefinalResult">https://www.sih.gov.in/SoftwarefinalResult</a>
                 </div>
               </div>
               <div className="py-8 flex border-t-2 border-gray-800 flex-wrap md:flex-no-wrap">
