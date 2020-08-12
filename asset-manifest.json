@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Genius_SIH/static/css/main.76e27cc9.chunk.css",
-    "main.js": "/Genius_SIH/static/js/main.6d9440ad.chunk.js",
-    "main.js.map": "/Genius_SIH/static/js/main.6d9440ad.chunk.js.map",
-    "runtime-main.js": "/Genius_SIH/static/js/runtime-main.51f9cd53.js",
-    "runtime-main.js.map": "/Genius_SIH/static/js/runtime-main.51f9cd53.js.map",
-    "static/js/2.a2eeabc9.chunk.js": "/Genius_SIH/static/js/2.a2eeabc9.chunk.js",
-    "static/js/2.a2eeabc9.chunk.js.map": "/Genius_SIH/static/js/2.a2eeabc9.chunk.js.map",
-    "index.html": "/Genius_SIH/index.html",
-    "precache-manifest.eb552ef4fd82b6d30bbc5efb1926ff9d.js": "/Genius_SIH/precache-manifest.eb552ef4fd82b6d30bbc5efb1926ff9d.js",
-    "service-worker.js": "/Genius_SIH/service-worker.js",
-    "static/css/main.76e27cc9.chunk.css.map": "/Genius_SIH/static/css/main.76e27cc9.chunk.css.map",
-    "static/js/2.a2eeabc9.chunk.js.LICENSE.txt": "/Genius_SIH/static/js/2.a2eeabc9.chunk.js.LICENSE.txt",
-    "static/media/grouppic.jpg": "/Genius_SIH/static/media/grouppic.5c5de049.jpg",
-    "static/media/news.jpg": "/Genius_SIH/static/media/news.a49dfcfa.jpg",
-    "static/media/officialpic.jpeg": "/Genius_SIH/static/media/officialpic.1915017f.jpeg",
-    "static/media/sihbanner2.png": "/Genius_SIH/static/media/sihbanner2.1403af58.png"
+    "main.css": "/genius-SIH/static/css/main.76e27cc9.chunk.css",
+    "main.js": "/genius-SIH/static/js/main.3aa3dd60.chunk.js",
+    "main.js.map": "/genius-SIH/static/js/main.3aa3dd60.chunk.js.map",
+    "runtime-main.js": "/genius-SIH/static/js/runtime-main.880faf18.js",
+    "runtime-main.js.map": "/genius-SIH/static/js/runtime-main.880faf18.js.map",
+    "static/js/2.a2eeabc9.chunk.js": "/genius-SIH/static/js/2.a2eeabc9.chunk.js",
+    "static/js/2.a2eeabc9.chunk.js.map": "/genius-SIH/static/js/2.a2eeabc9.chunk.js.map",
+    "index.html": "/genius-SIH/index.html",
+    "precache-manifest.c74323beb577e80e35b0883f0157812d.js": "/genius-SIH/precache-manifest.c74323beb577e80e35b0883f0157812d.js",
+    "service-worker.js": "/genius-SIH/service-worker.js",
+    "static/css/main.76e27cc9.chunk.css.map": "/genius-SIH/static/css/main.76e27cc9.chunk.css.map",
+    "static/js/2.a2eeabc9.chunk.js.LICENSE.txt": "/genius-SIH/static/js/2.a2eeabc9.chunk.js.LICENSE.txt",
+    "static/media/grouppic.jpg": "/genius-SIH/static/media/grouppic.5c5de049.jpg",
+    "static/media/news.jpg": "/genius-SIH/static/media/news.a49dfcfa.jpg",
+    "static/media/officialpic.jpeg": "/genius-SIH/static/media/officialpic.1915017f.jpeg",
+    "static/media/sihbanner2.png": "/genius-SIH/static/media/sihbanner2.1403af58.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51f9cd53.js",
+    "static/js/runtime-main.880faf18.js",
     "static/js/2.a2eeabc9.chunk.js",
     "static/css/main.76e27cc9.chunk.css",
-    "static/js/main.6d9440ad.chunk.js"
+    "static/js/main.3aa3dd60.chunk.js"
   ]
 }
