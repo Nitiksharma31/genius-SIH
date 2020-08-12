@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/genius-SIH/static/css/main.76e27cc9.chunk.css",
-    "main.js": "/genius-SIH/static/js/main.6eddb61d.chunk.js",
-    "main.js.map": "/genius-SIH/static/js/main.6eddb61d.chunk.js.map",
+    "main.js": "/genius-SIH/static/js/main.4081054f.chunk.js",
+    "main.js.map": "/genius-SIH/static/js/main.4081054f.chunk.js.map",
     "runtime-main.js": "/genius-SIH/static/js/runtime-main.880faf18.js",
     "runtime-main.js.map": "/genius-SIH/static/js/runtime-main.880faf18.js.map",
     "static/js/2.11720607.chunk.js": "/genius-SIH/static/js/2.11720607.chunk.js",
     "static/js/2.11720607.chunk.js.map": "/genius-SIH/static/js/2.11720607.chunk.js.map",
     "index.html": "/genius-SIH/index.html",
-    "precache-manifest.dfcadfeb494690556d7445df0e51fc54.js": "/genius-SIH/precache-manifest.dfcadfeb494690556d7445df0e51fc54.js",
+    "precache-manifest.bcb6832ab9f9521c1d01fe055aec48a4.js": "/genius-SIH/precache-manifest.bcb6832ab9f9521c1d01fe055aec48a4.js",
     "service-worker.js": "/genius-SIH/service-worker.js",
     "static/css/main.76e27cc9.chunk.css.map": "/genius-SIH/static/css/main.76e27cc9.chunk.css.map",
     "static/js/2.11720607.chunk.js.LICENSE.txt": "/genius-SIH/static/js/2.11720607.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.880faf18.js",
     "static/js/2.11720607.chunk.js",
     "static/css/main.76e27cc9.chunk.css",
-    "static/js/main.6eddb61d.chunk.js"
+    "static/js/main.4081054f.chunk.js"
   ]
 }

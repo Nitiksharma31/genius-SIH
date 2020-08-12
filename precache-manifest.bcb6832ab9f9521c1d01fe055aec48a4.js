@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4da98b139818e0e0aae8c9fcd8d0b8a7",
+    "revision": "cd83604fb0335aa017e73837623af13f",
     "url": "/genius-SIH/index.html"
   },
   {
-    "revision": "b63e10952445b3b01f30",
+    "revision": "89d13b3233e3d0d3176d",
     "url": "/genius-SIH/static/css/main.76e27cc9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/genius-SIH/static/js/2.11720607.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b63e10952445b3b01f30",
-    "url": "/genius-SIH/static/js/main.6eddb61d.chunk.js"
+    "revision": "89d13b3233e3d0d3176d",
+    "url": "/genius-SIH/static/js/main.4081054f.chunk.js"
   },
   {
     "revision": "91387e4b3187b484c169",
